@@ -7,7 +7,7 @@ var Events = require('backbone-events');
 
 // Handles cross-browser history management, based on URL fragments. If the
 // browser does not support `onhashchange`, falls back to polling.
-var History = Backbone.History = function() {
+var History = module.exports = function() {
   this.handlers = [];
   _.bindAll(this, 'checkUrl');
 };

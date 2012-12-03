@@ -10,7 +10,7 @@
 
 ```js
 
-var history = require('backbone-history');
+var history = require('spini-backbone-history');
 
 $(function(){
   ...
