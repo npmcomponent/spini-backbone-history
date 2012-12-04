@@ -3,7 +3,7 @@
 
 var _ = require('underscore');
 var $ = require('jquery');
-var Events = require('backbone-events');
+var Events = require('timoxley-backbone-events');
 
 // Handles cross-browser history management, based on URL fragments. If the
 // browser does not support `onhashchange`, falls back to polling.
