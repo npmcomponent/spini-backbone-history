@@ -3,7 +3,13 @@
   "repo": "spini/backbone-history",
   "description": "Backbone History component",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "backbone",
+    "history",
+    "mvc",
+    "fragment",
+    "pushstate"
+  ],
   "dependencies": {
     "component/underscore": "*",
     "component/jquery": "*",
