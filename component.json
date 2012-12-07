@@ -1,7 +1,7 @@
 {
   "name": "backbone-history",
   "repo": "spini/backbone-history",
-  "description": "Backbone History component",
+  "description": "Backbone.History component",
   "version": "0.0.1",
   "keywords": [
     "backbone",
