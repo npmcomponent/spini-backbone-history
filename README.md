@@ -1,6 +1,6 @@
 # backbone-history
 
-  Backbone History [Component](https://github.com/component/component/wiki/Components)
+  Backbone.History [component](https://github.com/component/component/wiki/Components)
 
 ## Installation
 
