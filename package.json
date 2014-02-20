@@ -1,0 +1,17 @@
+{
+  "name": "spini-backbone-history",
+  "description": "Backbone.History component",
+  "version": "0.0.1",
+  "keywords": [
+    "backbone",
+    "history",
+    "mvc",
+    "fragment",
+    "pushstate"
+  ],
+  "dependencies": {
+    "component-underscore": "git://github.com/npmcomponent/component-underscore.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "timoxley-backbone-events": "git://github.com/npmcomponent/timoxley-backbone-events.git"
+  }
+}
